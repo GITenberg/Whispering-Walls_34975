@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Mildred_Benson
     - http://www.gutenberg.org/browse/authors/c#a36376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34975#Whispering-Walls
 gutenberg_issued: '2011-01-15'
 gutenberg_type: Text
 identifiers:
